@@ -4,3 +4,9 @@ c:\users\kimjihoon\documents\visual studio 2015\Projects\TowerHanoi_JH\TowerHano
 c:\users\kimjihoon\documents\visual studio 2015\Projects\TowerHanoi_JH\TowerHanoi_JH\obj\Debug\TowerHanoi_JH.csprojResolveAssemblyReference.cache
 c:\users\kimjihoon\documents\visual studio 2015\Projects\TowerHanoi_JH\TowerHanoi_JH\obj\Debug\TowerHanoi_JH.exe
 c:\users\kimjihoon\documents\visual studio 2015\Projects\TowerHanoi_JH\TowerHanoi_JH\obj\Debug\TowerHanoi_JH.pdb
+C:\Users\KimJihoon\CsharpHW_Jihoon\TowerHanoi_JH\TowerHanoi_JH\bin\Debug\TowerHanoi_JH.exe.config
+C:\Users\KimJihoon\CsharpHW_Jihoon\TowerHanoi_JH\TowerHanoi_JH\obj\Debug\TowerHanoi_JH.exe
+C:\Users\KimJihoon\CsharpHW_Jihoon\TowerHanoi_JH\TowerHanoi_JH\obj\Debug\TowerHanoi_JH.pdb
+C:\Users\KimJihoon\CsharpHW_Jihoon\TowerHanoi_JH\TowerHanoi_JH\bin\Debug\TowerHanoi_JH.exe
+C:\Users\KimJihoon\CsharpHW_Jihoon\TowerHanoi_JH\TowerHanoi_JH\bin\Debug\TowerHanoi_JH.pdb
+C:\Users\KimJihoon\CsharpHW_Jihoon\TowerHanoi_JH\TowerHanoi_JH\obj\Debug\TowerHanoi_JH.csprojResolveAssemblyReference.cache
